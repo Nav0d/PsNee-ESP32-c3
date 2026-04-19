@@ -1,6 +1,6 @@
-# PsNee-ESP32
+# PsNee-ESP32-C3
 
-This is an ESP32 implementation of [PsNee](https://github.com/kalymos/PsNee) as used on PS1HDMI.
+This is an ESP32 implementation of [PsNee](https://github.com/kalymos/PsNee)
 
 The PsOne PAL BIOS Patch is not included.
 
